@@ -1,4 +1,4 @@
-package com.example.manga_reader
+package com.dvillegas.mangaverse
 
 import io.flutter.embedding.android.FlutterActivity
 
